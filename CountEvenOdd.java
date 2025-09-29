@@ -20,3 +20,4 @@ public class CountEvenOdd {
         System.out.println("Count of Odd Numbers: " + oddCount);
     }
 }
+
